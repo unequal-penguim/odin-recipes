@@ -1,0 +1,32 @@
+body {
+    font-family: Verdana, sans-serif;
+    font-size: 16px;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+h1,
+h2 {
+    font-family: Georgia, serif;
+    font-weight: 400;
+    text-align: center;
+}
+
+h1 {
+    font-size: 46px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+p {
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 500px;
+    display: block;
+    margin: 0 auto;
+}
